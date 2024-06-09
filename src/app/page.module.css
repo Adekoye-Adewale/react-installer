@@ -1,0 +1,17 @@
+.main {
+  padding: 4rem;
+  text-align: center;
+  display: grid;
+  place-content: center;
+  gap: 1rem;
+  height: 100%;
+}
+.main h1{
+  font-size: 4rem;
+}
+.main h2{
+  font-size: 2.5rem;
+}
+.main p{
+  font-size: 1.2rem;
+}
